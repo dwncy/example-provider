@@ -5,6 +5,7 @@ class Product {
         this.name = name;
         this.version = version;
         this.color = color;
+        this.colors = color;
     }
 }
 
